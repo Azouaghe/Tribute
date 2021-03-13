@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background-image: url(https://image.freepik.com/free-photo/old-paper-texture_144627-27363.jpg);
+    font-family: 'Dancing Script', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 25px;
+}
+#image{
+    width: 100%;
+    height: auto;
+    max-width:500px;
+    max-height:600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 5px solid gold;
+    border-radius: 100%;
+}
+
+.moroccomap{
+    text-align: center;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    border: 5px solid gold;
+    border-radius: 5%;
+    
+}
+.div-center{
+    text-align:justify;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+
+
+
+.golden{
+    color:gold;
+}
+
+.golden:after{
+    content:'Eddahbi';
+}
+
+.golden:hover:after{
+    content:'The Golden';
+}
+.footer{
+    font-family: sans-serif;
+    color: red;
+}
+.Az {
+    color: red;
+    
+}
+#title {
+    color: red;
+}
